@@ -1,0 +1,56 @@
+// manga.json V1.0 Rev 0
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "The Dragonslayer's Regression is Special / 용살자의 회귀는 특별하다",
+  "status": "Ongoing",
+  "author": "Swimming Sun",
+  "artist": "Studio Inus",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Siegfried, kesatria naga terkuat umat manusia, tewas dalam pertempuran epik melawan Raja Naga Jahat. Namun, alih-alih pergi ke alam baka, ia terbangun kembali di masa lalunya sebagai seorang taruna akademi militer berdarah lemah. Berbekal ingatan masa depan, teknik pedang pembantai naga yang legendaris, dan tekad untuk mencegah kehancuran dunia, Siegfried memulai kembali perjalanannya untuk menjadi Pembantai Naga Peerless yang tak tertandingi.",
+  "cover_url": "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": "1",
+      "chapter_title": "Kebangkitan Sang Pembantai Naga",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/004.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": "2",
+      "chapter_title": "Ujian Kemampuan Akademi",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/004.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": "3",
+      "chapter_title": "Bakat yang Tersembunyi",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-3/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-3/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-3/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-3/004.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-3/005.jpg"
+      ]
+    }
+  ]
+}
