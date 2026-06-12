@@ -1,30 +1,26 @@
 [
   {
-    "id": "my-exclusive-tower-guide",
     "title": "My Exclusive Tower Guide",
-    "cover": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=My%20Exclusive%20Tower%20Guide",
-    "path": "action/My Exclusive Tower Guide.cbz",
-    "category": "action"
+    "category": "action",
+    "cbz_url": "https://raw.githubusercontent.com/fandyalfarizisyafril/monstadata/main/action/My%20Exclusive%20Tower%20Guide.cbz",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=My%20Exclusive%20Tower%20Guide"
   },
   {
-    "id": "only-i-have-an-ex-grade-summon",
-    "title": "Only I Have an EX Grade Summon",
-    "cover": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Only%20I%20Have%20an%20EX%20Grade%20Summon",
-    "path": "action/Only I Have an EX-Grade Summon.cbz",
-    "category": "action"
+    "title": "Only I Have an EX-Grade Summon",
+    "category": "action",
+    "cbz_url": "https://raw.githubusercontent.com/fandyalfarizisyafril/monstadata/main/action/Only%20I%20Have%20an%20EX-Grade%20Summon.cbz",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=Only%20I%20Have%20an%20EX-Grade%20Summon"
   },
   {
-    "id": "rebirth-of-the-divine-demon",
     "title": "Rebirth of the Divine Demon",
-    "cover": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Rebirth%20of%20the%20Divine%20Demon",
-    "path": "action/Rebirth of the Divine Demon.cbz",
-    "category": "action"
+    "category": "action",
+    "cbz_url": "https://raw.githubusercontent.com/fandyalfarizisyafril/monstadata/main/action/Rebirth%20of%20the%20Divine%20Demon.cbz",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=Rebirth%20of%20the%20Divine%20Demon"
   },
   {
-    "id": "the-academy-s-sashimi-sword-master",
     "title": "The Academy’s Sashimi Sword Master",
-    "cover": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=The%20Academy%E2%80%99s%20Sashimi%20Sword%20Master",
-    "path": "action/The Academy’s Sashimi Sword Master.cbz",
-    "category": "action"
+    "category": "action",
+    "cbz_url": "https://raw.githubusercontent.com/fandyalfarizisyafril/monstadata/main/action/The%20Academy%E2%80%99s%20Sashimi%20Sword%20Master.cbz",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=The%20Academy%E2%80%99s%20Sashimi%20Sword%20Master"
   }
 ]
